@@ -1,0 +1,105 @@
+    1  ls desktop
+    2  ls sevenlevel1
+    3  ls Sevenlevel1
+    4  ls SevenLevel1
+    5  ls SevenLevel1/
+    6  clear
+    7  ls desktop
+    8  cd desktop
+    9  cd SevenLevel1
+   10  ls
+   11  cd assignments
+   12  ls
+   13  cd practicals
+   14  ls
+   15  get init
+   16  .code
+   17  code.
+   18  get init
+   19  code
+   20  code .
+   21  git clone
+   22  git clone desktop sevenlevel1
+   23  start
+   24  git config --global user.name "jonelphish"
+   25  git config --global user.email "jonelc087@gmail.com"
+   26  pwd
+   27  /c/users/GENERAL STORES/DESKTOP/sevenlevel1
+   28  clear
+   29  ls
+   30  clear
+   31  cd desktop
+   32  sevenlevel1
+   33  cd sevenlevel1
+   34  cd projects
+   35  cd assignments
+   36  cd practicals
+   37  home
+   38  cd venue
+   39  index
+   40  run index
+   41  cd ~
+   42  cd..
+   43  cd/
+   44  gh repo clone Gameye98/Lazymux
+   45  git repo clone 
+   46  git clone clear
+   47  clear
+   48  cd desktop
+   49  cd sevenlevel1
+   50  cd assignments
+   51  cd practicals
+   52  git init
+   53  code.
+   54  code .
+   55  clear
+   56  cd desktop
+   57  cd//
+   58  cd //
+   59  cd desktop
+   60  cd /
+   61  cd ~
+   62  cd desktop
+   63  cd sevenlevel1
+   64  cd assignments
+   65  cd practicals
+   66  cat venue.html
+   67  cd terminal commands/
+   68  cd terminalcommands
+   69  cd ~
+   70  cd desktop
+   71  cd sevenlevel1
+   72  cd assignments
+   73  cd terminal_commmands/
+   74  mkdir terminal_commands
+   75  cd terminal_commands
+   76  ls
+   77  mkdir test_directory
+   78  ls
+   79  rm test_directory
+   80  rmdir test_directory/
+   81  mkdir test 2
+   82  cd test_directory
+   83  cd test_directory/
+   84  ls
+   85  mv index.html test
+   86  ls
+   87  cd test
+   88  mkdir index.html
+   89  mkdir style.html
+   90  mv index.html ../
+   91  ls
+   92  cp style,html styles.html
+   93  cd desktop
+   94  mkdir test
+   95  cd test
+   96  touch index.html styles.css commands.txt
+   97  cp index.html index_2.html
+   98  cd ..
+   99  mkdir destination
+  100  mv test/index_2.html destination/
+  101  rm test/styles.css
+  102  test
+  103  ls test
+  104  ls destination
+  105  history > test/commands.txt
